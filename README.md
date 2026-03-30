@@ -20,3 +20,4 @@ Arabica and Robusta are the most dominant coffee types.
 The United States generates the highest sales among all countries.
 Customer segmentation (loyal vs non-loyal) impacts purchasing behaviour.
 
+<img width="1342" height="755" alt="image" src="https://github.com/user-attachments/assets/423ecd2a-7060-4fbe-9a8f-022c69202f65" />
